@@ -1,11 +1,11 @@
-import React, { useState } from "react";
-import { StyleSheet } from "react-native";
-import { Text, Button, Input } from "react-native-elements";
-import Spacer from "./Spacer";
+import React, { useState } from 'react';
+import { StyleSheet } from 'react-native';
+import { Text, Button, Input } from 'react-native-elements';
+import Spacer from './Spacer';
 
 const AuthForm = ({ headerText, errorMessage, onSubmit, submitButtonText }) => {
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
 
   return (
     <>
@@ -44,10 +44,10 @@ const AuthForm = ({ headerText, errorMessage, onSubmit, submitButtonText }) => {
 const styles = StyleSheet.create({
   errorMessage: {
     fontSize: 16,
-    color: "red",
+    color: 'red',
     marginLeft: 15,
-    marginTop: 15,
-  },
+    marginTop: 15
+  }
 });
 
 export default AuthForm;
