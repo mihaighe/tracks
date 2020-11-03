@@ -1,0 +1,47 @@
+[33mcommit 5e77196a87208279e5c41fa92eacd6d7a2550614[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Tue Nov 3 08:58:25 2020 +0200
+
+    Screen focus location tracking
+
+[33mcommit 2c7cfa9c584d269eaa43cb54495496980d639dfe[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Tue Nov 3 07:32:30 2020 +0200
+
+    Getting access to device location
+
+[33mcommit 767770b84380c04bcfb217ecbfd924972a698ea6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Mon Nov 2 09:07:37 2020 +0200
+
+    Authentication Flow
+
+[33mcommit 05411cb4b1f5a0459fd5ebe972c8f3620051b12d[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Thu Oct 29 20:23:22 2020 +0200
+
+    removed node modules
+
+[33mcommit 366c2b289af12e2f88b64fc3a4535918e3446c86[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Thu Oct 29 20:18:06 2020 +0200
+
+    Initial commit with database server
+
+[33mcommit e3b74617d779daaad7c9e49a11ed8d8a943cdafa[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Thu Oct 29 20:17:29 2020 +0200
+
+    Initial commit with server
+
+[33mcommit 5f14cf9cb69c9d87a0bf3abf6d955699bdc0725e[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Thu Oct 29 20:15:58 2020 +0200
+
+    Inital Commit
+
+[33mcommit 11e90c89c6a6c507f3455d91019a0584acd48525[m
+Author: MihaiGhe <mihai.md16@gmail.com>
+Date:   Thu Oct 29 12:25:32 2020 +0200
+
+    Created a new Expo app
